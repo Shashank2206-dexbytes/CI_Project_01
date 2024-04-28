@@ -1,6 +1,6 @@
 <?php
 defined('BASEPATH') OR exit('No direct script access allowed');
-
+// This Controller is Used of Resgister and Login
 class Welcome extends CI_Controller {
 
 	public function index()
