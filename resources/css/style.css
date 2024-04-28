@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+.navbar {
+    margin: 15px;
+    border-radius: 8px;
+    padding: 10px;
+}
+.myclass{
+    text-align: center;
+    justify-content: center;
+}
+
+
+  
+.testimonial-card .avatar {
+    width: 120px;
+    margin-top: -60px;
+    overflow: hidden;
+    border: 5px solid #fff;
+    border-radius: 50%;
+    
+}
+.card{
+    background: rgb(243, 255, 73);
+    width: 400px;
+}
+.btn a{
+    color: #fff;
+    text-decoration: none;
+}
+
+.container{
+    display: flex;
+}
