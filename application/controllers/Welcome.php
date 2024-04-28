@@ -24,6 +24,7 @@ class Welcome extends CI_Controller {
 
 				$data = array(
 					'username'=>$username,
+					'name'=>$name,
 					'email'=>$email,
 					'password'=>md5($password),
 					'status'=>1
